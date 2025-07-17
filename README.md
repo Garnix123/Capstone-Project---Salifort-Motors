@@ -79,8 +79,14 @@ The model demonstrates high accuracy with minimal false predictions.*
 ---
 
 ## ✅ Conclusions
-- Main factors for attrition: **low satisfaction**, **high workload**, and **lack of promotion**.
+- The analysis confirms that overwork and lack of career growth are key drivers of attrition at Salifort Motors. Employees with excessive workloads, long hours, and no promotions are more likely to leave.
 - **Recommendations:**
-  - Improve employee engagement.
-  - Balance workload.
-  - Increase career growth opportunities.
+  - Limit the number of projects per employee.
+
+  - Reward or compensate overtime work and clearly communicate policies.
+
+  - Consider promoting employees with longer tenure or investigate their dissatisfaction.
+
+  - Promote a healthier work-life balance and transparent expectations.
+
+
