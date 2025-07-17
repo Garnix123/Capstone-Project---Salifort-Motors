@@ -48,8 +48,13 @@ The dataset contains 10 columns with both numerical and categorical variables.*
 
 The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is negatively correlated with their satisfaction level.
 
-### Attrition by Salary Level  
-*(Insert bar chart image here if available)*
+### Attrition rate by Salary Level  
+
+<img width="552" height="320" alt="Image" src="https://github.com/user-attachments/assets/a6c43528-a6d1-44a7-91e6-4bbeedfde6c7" />
+
+### Attrition rate by Department
+
+<img width="638" height="290" alt="Image" src="https://github.com/user-attachments/assets/90719e7a-8770-4392-8d07-3d3f3ef59247" />
 
 ---
 
