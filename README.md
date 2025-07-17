@@ -30,7 +30,7 @@ The dataset contains the following columns:
 ### 📑 Sample of Dataset
 <img width="552" height="314" alt="Image" src="https://github.com/user-attachments/assets/6c178be8-0957-4704-846d-eb97f10dc5c0" />  
 
-*The dataset contains 10 columns with both numerical and categorical variables.*
+The dataset contains 10 columns with both numerical and categorical variables.*
 
 ---
 
@@ -44,7 +44,9 @@ The dataset contains the following columns:
 ## 📈 Visualizations
 
 ### Feature Correlation Heatmap  
-*(Insert heatmap image here if available)*
+<img width="966" height="620" alt="Image" src="https://github.com/user-attachments/assets/ad41f9e9-0728-4fa7-be16-e8d8e2c94280" />
+
+The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is negatively correlated with their satisfaction level.
 
 ### Attrition by Salary Level  
 *(Insert bar chart image here if available)*
