@@ -29,6 +29,7 @@ The dataset contains the following columns:
 
 ### 📑 Sample of Dataset
 <img width="552" height="314" alt="Image" src="https://github.com/user-attachments/assets/6c178be8-0957-4704-846d-eb97f10dc5c0" />  
+
 *The dataset contains 10 columns with both numerical and categorical variables.*
 
 ---
