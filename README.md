@@ -67,8 +67,9 @@ Two models were tested:
 ---
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)  
-*The model demonstrates high accuracy with minimal false predictions.*
+<img width="343" height="265" alt="Image" src="https://github.com/user-attachments/assets/ea276e61-8957-4f44-986d-e0fb803d18fa" />  
+
+The model demonstrates high accuracy with minimal false predictions.*
 
 ---
 
