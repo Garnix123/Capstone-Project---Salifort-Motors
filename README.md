@@ -2,6 +2,10 @@
 
 This project was completed as part of the **Google Advanced Data Analytics Professional Certificate** on Coursera. The objective is to analyze HR data from Salifort Motors and build a predictive model to determine whether an employee will leave the company.
 
+## Introduction
+
+Salifort Motors is a fictitious multinational company in the automotive industry, created for educational and analytical purposes. It is known for its commitment to innovation, quality, and operational efficiency, supplying advanced components and consulting solutions to leading car manufacturers worldwide. With a diverse workforce across multiple regions, Salifort Motors emphasizes talent-driven growth and continuous improvement. As part of its strategic objectives, the company aims to leverage data analytics to address business challenges—such as understanding employee attrition—to maintain a productive and engaged workforce.
+
 ---
 
 ## 📂 Project Overview
