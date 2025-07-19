@@ -1,4 +1,4 @@
-# Salifort Motors Employee Attrition Prediction
+# Employee Attrition Prediction using Random Forest on HR Dataset - Salifort Motors
 
 This project was completed as part of the **Google Advanced Data Analytics Professional Certificate** on Coursera. The objective is to analyze HR data from Salifort Motors and build a predictive model to determine whether an employee will leave the company.
 
